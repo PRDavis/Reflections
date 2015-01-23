@@ -9,3 +9,8 @@
 		This allows the user control over what is added to the commit. If a small change was made to a few files, the entier project does not need to be added. 
 3.  How can you use the staging area to make sure you have one commit per logical 		change?
 		Only add the files you have made changes to for the current logical breakpoint.
+
+4.	What are some situations when branches would be helpful in keeping your 
+	history organized? How would branches help?
+		Any major changes can begin down a new branch, so they serve as milemarkers or sign posts along the way. 
+		If you have a stable version of code, but want to add more features, you could branch to develop the features and still keep the working version available.
