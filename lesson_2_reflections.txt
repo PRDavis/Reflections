@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+	It creates a .git directory that contains metadata about the version changes
+	and contents of the repository. 
+	The reason you need to do it is that without it Git would not work.
+	
