@@ -14,3 +14,7 @@
 	history organized? How would branches help?
 		Any major changes can begin down a new branch, so they serve as milemarkers or sign posts along the way. 
 		If you have a stable version of code, but want to add more features, you could branch to develop the features and still keep the working version available.
+
+5.	How do the diagrams help you visualize the branch structure?
+		They provide a graphical representation of the tree structure.
+		
