@@ -18,3 +18,6 @@
 5.	How do the diagrams help you visualize the branch structure?
 		They provide a graphical representation of the tree structure.
 		
+6.  What is the result of merging two branches together? Why do we represent it in
+	the diagram the way we do?	
+		Merging the branches combines the features of both. To show what is included and what is not.	
