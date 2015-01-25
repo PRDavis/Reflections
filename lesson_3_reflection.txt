@@ -17,3 +17,7 @@
 		I could use email or a chat client, but then I would have to manage the workflow. That would be more overhead. 
 		Real time collaberation might be easier with video conferencing, but not always practical.
 
+6.	When would you want to make changes in a separate branch rather than directly in master? 
+	What benefits does each approach have?
+		You can have a production master branch and other branches that are not ready for production. These non-master branches can be changed without breaking the working master. 
+		On small projects you can just use a linear approach and keep everything in master.
